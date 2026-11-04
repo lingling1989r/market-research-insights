@@ -34,7 +34,7 @@
 
 每次任务先验证 ClaudeBaby 当前连接和实际覆盖；数据缺失、无权限、工具报错或没有命中时会如实标注。用户上传的表格可作为输入材料，但会单独注明来源。返回记录若带有原始平台链接，可在报告中用于回查；Skill 不会绕过 ClaudeBaby 直接采集。
 
-使用前请在你的 Agent 中配置并授权 ClaudeBaby MCP。不要把 API Key 粘贴到聊天、仓库或报告中。
+首次使用先识别 Agent 产品/版本，再按[ClaudeBaby 首次连接指南](references/claudebaby-first-time-setup.md)提供相应的配置路径。注册链接：[ClaudeBaby 注册](https://claudebaby.cn/console/register?ref=M8YYGRN4)；Key 页面：[console/keys](https://claudebaby.cn/console/keys)。用户在 Agent 的安全凭据设置中录入 Key，不能明文发到聊天；配置后刷新工具并验证连接。
 
 ## 安装
 

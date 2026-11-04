@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="t d">
+  <title id="t">ClaudeBaby API Key 页面入口定位图</title><desc id="d">界面示意：登录后先从右上角 Console 进入控制台，再点侧边栏 API Key。非真实网站截图。</desc>
+  <rect width="1200" height="680" rx="28" fill="#f4f7fb"/>
+  <text x="58" y="68" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#17243a">ClaudeBaby：两步找到 API Key</text>
+  <text x="60" y="101" font-family="Arial,sans-serif" font-size="17" fill="#5c6c82">登录后：右上角 Console → 控制台侧边栏 API Key</text>
+  <rect x="55" y="126" width="1090" height="460" rx="20" fill="#fff" stroke="#d8e0eb" stroke-width="2"/>
+  <rect x="55" y="126" width="1090" height="58" rx="20" fill="#f9fbfd"/><path d="M55 184h1090" stroke="#e4eaf1" stroke-width="2"/>
+  <circle cx="87" cy="155" r="7" fill="#d8e0eb"/><circle cx="110" cy="155" r="7" fill="#d8e0eb"/><circle cx="133" cy="155" r="7" fill="#d8e0eb"/>
+  <text x="180" y="161" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#263750">ClaudeBaby 控制台（界面示意）</text>
+  <rect x="855" y="137" width="250" height="36" rx="18" fill="#eef6ff" stroke="#4285f4" stroke-width="2"/>
+  <text x="885" y="161" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#1557a0">右上角账号：Console</text>
+  <ellipse cx="980" cy="155" rx="150" ry="27" fill="none" stroke="#e34d59" stroke-width="5"/>
+  <path d="M975 184v26" stroke="#e34d59" stroke-width="4"/><path d="M965 203l10 12 10-12" fill="none" stroke="#e34d59" stroke-width="4"/>
+  <rect x="82" y="211" width="250" height="330" rx="14" fill="#f8fafc" stroke="#e0e7ef" stroke-width="2"/>
+  <text x="108" y="249" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#31435c">控制台菜单</text>
+  <text x="108" y="295" font-family="Arial,sans-serif" font-size="17" fill="#53657e">Overview</text>
+  <rect x="98" y="310" width="218" height="51" rx="10" fill="#eef6ff" stroke="#4285f4" stroke-width="2"/>
+  <text x="124" y="342" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#1557a0">API Key</text>
+  <ellipse cx="205" cy="336" rx="121" ry="35" fill="none" stroke="#e34d59" stroke-width="5"/>
+  <text x="108" y="400" font-family="Arial,sans-serif" font-size="17" fill="#53657e">Top up</text><text x="108" y="443" font-family="Arial,sans-serif" font-size="17" fill="#53657e">Credit history</text><text x="108" y="486" font-family="Arial,sans-serif" font-size="17" fill="#53657e">Usage</text>
+  <rect x="360" y="211" width="748" height="330" rx="14" fill="#fff" stroke="#e0e7ef" stroke-width="2"/>
+  <text x="402" y="262" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#24344d">API Key 管理</text>
+  <text x="402" y="310" font-family="Arial,sans-serif" font-size="18" fill="#53657e">点击「Issue new key」创建密钥</text>
+  <rect x="402" y="338" width="380" height="55" rx="10" fill="#f7f9fc" stroke="#d8e0eb"/><text x="427" y="372" font-family="Arial,sans-serif" font-size="16" fill="#74839a">新 Key 完整明文只显示一次，请立即复制</text>
+  <text x="402" y="438" font-family="Arial,sans-serif" font-size="17" fill="#53657e">直达入口：https://claudebaby.cn/console/keys</text>
+  <rect x="55" y="606" width="1090" height="44" rx="12" fill="#fff3e9"/><text x="82" y="634" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#9b4c17">Key 是密码：只放进 Agent 的安全配置，不要粘贴到聊天、截图或仓库。</text>
+  <text x="60" y="670" font-family="Arial,sans-serif" font-size="14" fill="#69788e">定位示意图，非网站截图；依据控制台实际页面与菜单绘制，UI 可能随版本更新。</text>
+</svg>
