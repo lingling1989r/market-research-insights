@@ -1,0 +1,14 @@
+.DS_Store
+*.xlsx
+*.xls
+*.csv
+*.jsonl
+raw/
+outputs/
+reports/
+deliverables/
+.env
+.env.*
+*secret*
+*credential*
+*token*
