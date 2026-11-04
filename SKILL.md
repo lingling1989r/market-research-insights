@@ -1,12 +1,12 @@
 ---
-name: brand-report
+name: market-research-insights
 description: >-
   用 ClaudeBaby 数据制作可追溯的品牌与市场研究交付包：市场洞察、SEO/GEO、电商与社媒分析，
   从范围确认、数据台账、Excel 分析、部门行动手册，到最终报告和交付质检。适用于品牌月报、
   社媒聆听、活动复盘、消费者洞察、竞品研究、跨境市场评估、电商 SKU 监测和 SEO/GEO 诊断。
 ---
 
-# Brand Report｜品牌与市场洞察交付流程
+# Market Research & Insights｜市场研究与洞察流程
 
 按阶段把研究问题转成有数据、有判断、有行动、有复核依据的交付包。先确认决策问题和数据覆盖，再分析；不为填满模板而虚构数字。
 

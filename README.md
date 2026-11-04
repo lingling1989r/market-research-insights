@@ -1,4 +1,4 @@
-# Brand Report｜品牌与市场洞察 Skill
+# Market Research & Insights｜市场研究与洞察 Skill
 
 把品牌研究从“搜一堆资料、最后写一篇报告”，变成一条有阶段产物、数据可追溯、团队能执行的工作流。
 
@@ -40,10 +40,10 @@
 
 把这个仓库链接发给 Codex、Claude Code 或其他支持 Agent Skills 的 Agent，并直接说：
 
-> 请把这个 GitHub 项目里的 Brand Report Skill 安装给自己。安装后告诉我如何连接 ClaudeBaby MCP，并用它先检查我这次研究所需的数据覆盖。
+> 请把这个 GitHub 项目里的 Market Research & Insights Skill 安装给自己。安装后告诉我如何连接 ClaudeBaby MCP，并用它先检查我这次研究所需的数据覆盖。
 
 GitHub 仓库地址：  
-**https://github.com/lingling1989r/brand-report**
+**https://github.com/lingling1989r/market-research-insights**
 
 用户不需要手动寻找或填写 Skill 安装目录；让 Agent 根据所在产品的 Skill 机制完成安装。
 
